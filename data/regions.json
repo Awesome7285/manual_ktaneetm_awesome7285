@@ -1,0 +1,73 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "1.1":{
+        "requires": "|Alphabet| AND |Letter Keys| AND |Switches| AND |Wire Placement|"
+    },
+    "1.2":{
+        "requires": "|Alphabet| AND |Letter Keys| AND |Switches| AND |Wire Placement| AND |Colored Squares| AND |Emoji Math| AND |Text Field| AND |Digital Root|"
+    },
+    "1.3":{
+        "requires": "|Alphabet| AND |Letter Keys| AND |Switches| AND |Wire Placement| AND |Colored Squares| AND |Emoji Math| AND |Text Field| AND |Digital Root| AND |Refill that Beer!| AND |Backgrounds| AND |Connection Check|"
+    },
+    "1.4":{
+        "requires": "|Alphabet| AND |Letter Keys| AND |Switches| AND |Wire Placement| AND |Colored Squares| AND |Emoji Math| AND |Text Field| AND |Digital Root| AND |Backgrounds| AND |Connection Check|"
+    },
+    "2.1":{
+        "requires": "|Next Chapter:1| AND |Rock-Paper-Scissors-Lizard-Spock| AND |Combination Lock| AND |Simon States| AND |Two Bits| AND |Alphabet| AND |Letter Keys| AND |Switches| AND |Connection Check| AND |Wire Placement|"
+    },
+    "2.2":{
+        "requires": "|Next Chapter:1| AND |Uncolored Squares| AND |Round Keypad| AND |The Screw| AND |Double-Oh| AND |Colored Squares| AND |Emoji Math| AND |Text Field| AND |Digital Root| AND |Backgrounds| AND |Alphabet| AND |Letter Keys| AND |Switches| AND |Text Field|"
+    },
+    "2.3":{
+        "requires": "|Next Chapter:1| AND |3x3 Grid| AND |Divided Squares| AND |Battleship| AND |Rock-Paper-Scissors-Lizard-Spock| AND |Combination Lock| AND |Simon States| AND |Two Bits| AND |Uncolored Squares| AND |Round Keypad| AND |The Screw| AND |Double-Oh|"
+    },
+    "2.4":{
+        "requires": "|Next Chapter:1| AND |Wire Placement| AND |Colored Squares| AND |Backgrounds| AND |Connection Check| AND |Emoji Math| AND |Text Field| AND |Divided Squares| AND |Battleship| AND |Rock-Paper-Scissors-Lizard-Spock| AND |Combination Lock| AND |Simon States| AND |Two Bits| AND |Uncolored Squares| AND |Round Keypad| AND |The Screw| AND |Double-Oh|"
+    },
+    "3.1":{
+        "requires": "|Next Chapter:2| AND |Bitwise Operations| AND |Semaphore| AND |Symbolic Password| AND |Third Base| AND |Alphabet| AND |Letter Keys| AND |Text Field| AND |Switches| AND |Wire Placement| AND |Combination Lock| AND |Two Bits| AND |Rock-Paper-Scissors-Lizard-Spock| AND |Simon States| AND |Battleship|"
+    },
+    "3.2":{
+        "requires": "|Next Chapter:2| AND |Decolored Squares| AND |Minesweeper| AND |Boolean Venn Diagram| AND |The Bulb| AND |Colored Squares| AND |Emoji Math| AND |Digital Root| AND |Connection Check| AND |Backgrounds| AND |Uncolored Squares| AND |Round Keypad| AND |The Screw| AND |Double-Oh| AND |Divided Squares|"
+    },
+    "3.3":{
+        "requires": "|Next Chapter:2| AND |Alphabetical Order| AND |Bitwise Operations| AND |Semaphore| AND |Symbolic Password| AND |Third Base| AND |Decolored Squares| AND |Minesweeper| AND |Boolean Venn Diagram| AND |The Bulb| AND |Forget It Not| AND |Yahtzee|"
+    },
+    "3.4":{
+        "requires": "|Next Chapter:2| AND |Divided Squares| AND |Bitwise Operations| AND |Semaphore| AND |Symbolic Password| AND |Third Base| AND |Decolored Squares| AND |Minesweeper| AND |Boolean Venn Diagram| AND |The Bulb| AND |Forget It Not| AND |Yahtzee| AND |Combination Lock| AND |Two Bits| AND |Colored Squares| AND |Uncolored Squares| AND |Battleship| AND |The Screw| AND |Double-Oh| AND |Round Keypad|"
+    },
+    "4.1":{
+        "requires": "|Next Chapter:3| AND |3D Maze| AND |Bitmaps| AND |Logic Gates| AND |Alphabet| AND |Letter Keys| AND |Digital Root| AND |Switches| AND |Combination Lock| AND |Two Bits| AND |Rock-Paper-Scissors-Lizard-Spock| AND |Simon States| AND |Bitwise Operations| AND |Semaphore| AND |Symbolic Password| AND |Third Base| AND |Colored Switches|"
+    },
+    "4.2":{
+        "requires": "|Next Chapter:3| AND |Discolored Squares| AND |Piano Keys| AND |Black Hole| AND |Safety Safe| AND |Text Field| AND |Wire Placement| AND |Round Keypad| AND |Emoji Math| AND |Uncolored Squares| AND |Colored Squares| AND |The Screw| AND |Double-Oh| AND |Decolored Squares| AND |Minesweeper| AND |Boolean Venn Diagram| AND |The Bulb|"
+    },
+    "4.3":{
+        "requires": "|Next Chapter:3| AND |Forget Me Not| AND |Binary LEDs| AND |Snap!| AND |Discolored Squares| AND |Piano Keys| AND |Black Hole| AND |Safety Safe| AND |3D Maze| AND |Colored Switches| AND |Bitmaps| AND |Logic Gates|"
+    },
+    "4.4":{
+        "requires": "|Next Chapter:3| AND |Divided Squares| AND |Forget Me Not| AND |Binary LEDs| AND |Discolored Squares| AND |Piano Keys| AND |Black Hole| AND |Safety Safe| AND |3D Maze| AND |Colored Switches| AND |Bitmaps| AND |Logic Gates| AND |Decolored Squares| AND |Uncolored Squares| AND |Colored Squares| AND |Battleship| AND |Yahtzee| AND |Bitwise Operations| AND |Semaphore| AND |Minesweeper| AND |The Bulb| AND |Boolean Venn Diagram| AND |Digital Root|"
+    },
+    "5.1":{
+        "requires": "|Next Chapter:4| AND |3D Tunnels| AND |Algebra| AND |Fast Math| AND |Color Morse| AND |Combination Lock| AND |Two Bits| AND |Rock-Paper-Scissors-Lizard-Spock| AND |Simon States| AND |Bitwise Operations| AND |Semaphore| AND |Symbolic Password| AND |Third Base| AND |3D Maze| AND |Colored Switches| AND |Bitmaps| AND |Logic Gates|"
+    },
+    "5.2":{
+        "requires": "|Next Chapter:4| AND |Varicolored Squares| AND |Follow the Leader| AND |Adjacent Letters| AND |Cruel Piano Keys| AND |Decolored Squares| AND |Uncolored Squares| AND |Colored Squares| AND |Round Keypad| AND |Double-Oh| AND |The Screw| AND |Battleship| AND |Minesweeper| AND |The Bulb| AND |Yahtzee| AND |Discolored Squares| AND |Piano Keys| AND |Black Hole| AND |Safety Safe|"
+    },
+    "5.3":{
+        "requires": "|Next Chapter:4| AND |Snap!| AND |Refill that Beer!| AND |Alphabetical Order| AND |3x3 Grid| AND |Forget This| AND |The Swan| AND |Varicolored Squares| AND |Follow the Leader| AND |Adjacent Letters| AND |Cruel Piano Keys| AND |3D Tunnels| AND |Algebra| AND |Fast Math| AND |Color Morse|"
+    },
+    "5.4":{
+        "requires": "|Next Chapter:4| AND |Forget This| AND |The Swan| AND |Varicolored Squares| AND |Follow the Leader| AND |Adjacent Letters| AND |Cruel Piano Keys| AND |3D Tunnels| AND |Algebra| AND |Fast Math| AND |Color Morse| AND |Discolored Squares| AND |Decolored Squares| AND |Uncolored Squares| AND |Colored Squares| AND |3D Maze| AND |Logic Gates| AND |Colored Switches| AND |Bitmaps| AND |Piano Keys| AND |Black Hole| AND |Binary LEDs|"
+    },
+
+    "6.1":{
+        "requires": "|Bonus Chapter| AND |Next Chapter:5| AND |Black Hole| AND |The Swan| AND |1D Maze| AND |Caesar Cipher| AND |Cruel Digital Root| AND |Faulty Digital Root| AND |Perplexing Wires| AND |Digital Root|"
+    },
+    "6.2":{
+        "requires": "|Bonus Chapter| AND |Next Chapter:5| AND |Forget This| AND |Lights Out| AND |Juxtacolored Squares| AND |21| AND |Big Circle| AND |Plumbing| AND |Colored Squares| AND |Uncolored Squares| AND |Decolored Squares| AND |Varicolored Squares| AND |Discolored Squares| AND |Third Base| AND |Faulty Digital Root|"
+    },
+    "7.1":{
+        "requires": "|Next Chapter:6| AND |Refill that Beer!| AND |Forget Me Not| AND |Alphabet| AND |Letter Keys| AND |Switches| AND |Text Field| AND |Wire Placement| AND |Backgrounds| AND |Emoji Math| AND |Connection Check| AND |Digital Root| AND |Battleship| AND |Rock-Paper-Scissors-Lizard-Spock| AND |Combination Lock| AND |Simon States| AND |Two Bits| AND |Round Keypad| AND |The Screw| AND |Double-Oh| AND |Divided Squares| AND |Binary LEDs| AND |Piano Keys| AND |Black Hole| AND |Safety Safe| AND |3D Maze| AND |Colored Switches| AND |Bitmaps| AND |Logic Gates| AND |Follow the Leader| AND |Adjacent Letters| AND |3D Tunnels| AND |Algebra| AND |Fast Math| AND |Color Morse| AND |Bitwise Operations| AND |Semaphore| AND |Symbolic Password| AND |Third Base| AND |Minesweeper| AND |Boolean Venn Diagram| AND |The Bulb| AND |Yahtzee| AND |Colored Squares| AND |Uncolored Squares| AND |Decolored Squares| AND |Discolored Squares| AND |Varicolored Squares|"
+    }
+}
